@@ -36,4 +36,4 @@ I turn tangled codebases into clean, maintainable architecture, then build the i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<sub>Selected work · <a href="https://studiotypo.xyz">Darji</a> · <a href="https://github.com/rajbeer1/doc-chat">doc-chat</a> · <a href="https://github.com/rajbeer1/expense-tracker">expense-tracker</a></sub>
+<sub>Selected work · <a href="https://studiotypo.xyz">Darji</a> · History Capture Admin · <a href="https://knowva.studiotypo.xyz">Knowva</a></sub>
