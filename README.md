@@ -1,4 +1,6 @@
-<img align="right" width="170" src="https://studiotypo.xyz/team/raji.webp" alt="Raji Kaur" />
+<table>
+<tr>
+<td valign="top">
 
 # Raji Kaur
 
@@ -6,9 +8,16 @@
 
 I turn tangled codebases into clean, maintainable architecture, then build the infra that keeps it shipping. Lead developer by day: the bridge between ambitious design and bulletproof implementation. Deep on LLM agents, RAG, and full-stack TypeScript — with a soft spot for performance, accessibility, and code the next dev actually enjoys reading.
 
-- 🛠️ Building **[Roqit](https://github.com/rajbeer1/roqit-app)** and document-intelligence systems at Studio Typo
+- 🛠️ Building document-intelligence systems and AI products at Studio Typo
 - 🧠 Working with agentic AI, RAG pipelines, and Next.js / Node backends
 - 🌱 Open source & mentoring on the side — I remember the blank terminal too
+
+</td>
+<td valign="top" width="210">
+<img width="200" src="https://studiotypo.xyz/team/raji.webp" alt="Raji Kaur" />
+</td>
+</tr>
+</table>
 
 ### Connect
 
@@ -27,6 +36,4 @@ I turn tangled codebases into clean, maintainable architecture, then build the i
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br clear="right" />
-
-<sub>Selected work · <a href="https://github.com/rajbeer1/roqit-app">Roqit</a> · <a href="https://github.com/rajbeer1/doc-chat">doc-chat</a> · <a href="https://github.com/rajbeer1/expense-tracker">expense-tracker</a></sub>
+<sub>Selected work · <a href="https://studiotypo.xyz">Darji</a> · <a href="https://github.com/rajbeer1/doc-chat">doc-chat</a> · <a href="https://github.com/rajbeer1/expense-tracker">expense-tracker</a></sub>
